@@ -28,7 +28,11 @@ Skip any language that you're already fully comfortable with.
 
 ### Assignments
 
-Assignments are currently being updated and will be added as they become available.
+Complete the following assignments, which are meant to help you try out the concepts introduced in the presentations.
+
+[Assignment 1](https://github.com/Opal-teaching/hello-world): "Hello World the Opal Way". This assignment will teach you about the fundamentals of the Opal app frontend setup.
+
+More assignments are currently being updated and will be added as they become available.
 
 ### Presentations
 
