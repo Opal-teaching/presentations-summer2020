@@ -7,6 +7,8 @@ followed in a specific order, except for the assignments which are ordered and s
 (this will be mentioned). Links to tutorials are included for each language or framework, but you can use other resources 
 if you prefer.
 
+An overview of what to expect during this bootcamp is available [here](./overview.md).
+
 ### Languages and Frameworks
 
 Follow a complete tutorial for all languages and frameworks listed below, either to learn them for the first time or as a refresher. 
