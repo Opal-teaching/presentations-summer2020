@@ -32,9 +32,10 @@ Skip any language that you're already fully comfortable with.
 
 Complete the following assignments, which are meant to help you try out the concepts introduced in the presentations.
 
-- [Assignment 1](https://github.com/Opal-teaching/hello-world): "Hello World the Opal Way". This assignment will teach you about the fundamentals of the Opal app frontend setup. [[Solution](https://github.com/Opal-teaching/hello-world-solution)].
+  - [Assignment 1](https://github.com/Opal-teaching/hello-world): "Hello World the Opal Way". This assignment will teach you about the fundamentals of the Opal app frontend setup. [[Solution](https://github.com/Opal-teaching/hello-world-solution)].
+  - [Assignment 2](https://github.com/Opal-teaching/async_js_assignment): Asynchronous JavaScript exercises. This assignment will allow you to practice using promises and manipulating asynchronous code.
 
-More assignments are currently being updated and will be added as they become available.
+More assignments will be added as they become available.
 
 ### Presentations
 
