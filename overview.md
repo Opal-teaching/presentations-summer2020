@@ -10,7 +10,7 @@ The following content will be covered during this bootcamp:
   - Assignments
     - Hello World the Opal Way
     - Asynchronous JavaScript (after the presentation on the same topic)
-    - Simple Firebase app (after the presentation on AngularJS filters and Firebase)
+    - Simple Firebase app (after the presentations on AngularJS and Firebase)
     - Simple messaging app (after the previous assignment)
     
 At the end of the presentations and assignments, you'll be given instructions on installing a development environment for Opal,
