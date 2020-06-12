@@ -18,7 +18,7 @@ Skip any language that you're already fully comfortable with.
 
 * Asynchronous Javascript & Promises (Presentation #3, [article on asynchronous JS](http://blog.thefirehoseproject.com/posts/exactly-makes-javascript-weird-programming-language/), [article on callbacks](https://www.pluralsight.com/guides/introduction-to-asynchronous-javascript))
 
-* AngularJS (*note*: make sure to study AngularJS (i.e. Angular 1), not Angular 2 or higher) ([W3Schools](https://www.w3schools.com/angular/default.asp), [JohnPapa Style Guide (**important**)](https://github.com/johnpapa/angular-styleguide/blob/master/a1/README.md))
+* AngularJS (*note*: make sure to study AngularJS (i.e. Angular 1), not Angular 2 or higher) ([W3Schools](https://www.w3schools.com/angular/default.asp), **important**: [JohnPapa Style Guide](https://github.com/johnpapa/angular-styleguide/blob/master/a1/README.md))
 
 * Git ([Interactive tutorial](https://learngitbranching.js.org/), [TutorialsPoint](https://www.tutorialspoint.com/git/index.htm), [Udacity Course](https://www.udacity.com/course/version-control-with-git--ud123))
 
@@ -35,8 +35,9 @@ Complete the following assignments, which are meant to help you try out the conc
   - [Assignment 1](https://github.com/Opal-teaching/hello-world): "Hello World the Opal Way". This assignment will teach you about the fundamentals of the Opal app frontend setup. [[Solution](https://github.com/Opal-teaching/hello-world-solution)].
   - [Assignment 2](https://github.com/Opal-teaching/async_js_assignment): Asynchronous JavaScript exercises. This assignment will allow you to practice using promises and manipulating asynchronous code. [[Solution](https://github.com/Opal-teaching/async_js_assignment_solution)].
   - [Assignment 3](https://github.com/Opal-teaching/firebase-simple-app): Simple Firebase App. This assignment will help you get comfortable using Firebase in an AngularJS app.
+  - [Assignment 4](https://github.com/Opal-teaching/messaging-app): Frontend Messaging App. This assignment will give you more practice using AngularJS. For an extra challenge, you can combine it with what you learned in Assignment 3 to turn it into a functional, cloud-based messaging app.
 
-More assignments will be added as they become available.
+These four assignments complete the list of therotical exercises. The last (practical) assignment, bug-fixing in Opal, will be added after we finish the Opal installation.
 
 ### Presentations
 
@@ -44,4 +45,4 @@ Presentations will be added to this repository as they are given. Refer back to 
 
 ### Useful links
 
-* [OnsenUI API Reference](https://onsen.io/v1/reference/javascript.html) (we're using version 1)
+* [OnsenUI API Reference](https://onsen.io/v1/reference/javascript.html) (we're using version 1).
