@@ -43,6 +43,11 @@ These four assignments complete the list of therotical exercises. The last (prac
 
 Presentations will be added to this repository as they are given. Refer back to them when needed.
 
+### Installation
+
+Follow the instructions [here](https://github.com/Opal-teaching/opal-backend-wiki/blob/master/installation-guide.md) to install 
+a local development environment of Opal.
+
 ### Useful links
 
 * [OnsenUI API Reference](https://onsen.io/v1/reference/javascript.html) (we're using version 1).
