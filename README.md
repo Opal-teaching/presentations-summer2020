@@ -36,8 +36,9 @@ Complete the following assignments, which are meant to help you try out the conc
   - [Assignment 2](https://github.com/Opal-teaching/async_js_assignment): Asynchronous JavaScript exercises. This assignment will allow you to practice using promises and manipulating asynchronous code. [[Solution](https://github.com/Opal-teaching/async_js_assignment_solution)].
   - [Assignment 3](https://github.com/Opal-teaching/firebase-simple-app): Simple Firebase App. This assignment will help you get comfortable using Firebase in an AngularJS app.
   - [Assignment 4](https://github.com/Opal-teaching/messaging-app): Frontend Messaging App. This assignment will give you more practice using AngularJS. For an extra challenge, you can combine it with what you learned in Assignment 3 to turn it into a functional, cloud-based messaging app.
+  - [Assignment 5](https://github.com/Opal-teaching/bug-fixing): Bug-fixing in Opal! This assignment will give you hands-on experience with the Opal development workflow.
 
-These four assignments complete the list of therotical exercises. The last (practical) assignment, bug-fixing in Opal, will be added after we finish the Opal installation.
+These five assignments complete the list of theoretical and practical exercises.
 
 ### Presentations
 
